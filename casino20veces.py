@@ -29,3 +29,4 @@ print(f'Tu porcentaje de victoria fue de: {((winrate*100) / jugadas):.2f}%:')
 fin = time.time()
 tiempoTranscurrido = fin - inicio
 print(f'Hemos demorado: {tiempoTranscurrido}s')
+#modifico la cosa
